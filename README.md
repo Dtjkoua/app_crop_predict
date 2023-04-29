@@ -14,7 +14,7 @@ pip install virtualenv
 clone le repository
 
 ```
-git clone https://github.com/Dtjkoua/app_crop_predict
+git clone https://github.com/Dtjkoua/app_crop_predict.git
 ```
 en suite rdv dans le repo
 ```
